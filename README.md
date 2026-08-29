@@ -60,6 +60,6 @@ Machine Learning • Deep Learning • RAG • LLMs • Full-Stack Development
 
 ## 🤝 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/komal-karle-5b33b02a3)
 
 ⭐ Thanks for visiting!
