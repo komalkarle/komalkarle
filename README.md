@@ -1,121 +1,65 @@
 # Hi, I'm Komal Karle 👋
 
-### 🎓 BE Information Technology Student | Katalyst India Student | Full-Stack Developer | Machine Learning Enthusiast
+🎓 BE Information Technology Student  
+💻 Full-Stack Developer | Machine Learning Enthusiast
 
-I'm an Information Technology student and Katalyst India student passionate about building **full-stack web applications** and exploring **Machine Learning and AI**.
-
-I enjoy turning ideas into practical projects, participating in hackathons and technical events, and continuously improving my problem-solving and development skills.
+I'm interested in building practical software solutions and exploring
+Machine Learning and AI. I enjoy working on projects, participating in
+hackathons, and continuously improving my technical skills.
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+**Languages:** C++ • Python • JavaScript • SQL
 
-* C++
-* Python
-* JavaScript
-* SQL
+**Frontend:** HTML • CSS • React • Tailwind CSS
 
-### Frontend
+**Backend & Databases:** FastAPI • MySQL • MongoDB • Firebase
 
-* HTML
-* CSS
-* React
-* Tailwind CSS
+**ML & AI:** NumPy • Pandas • Scikit-learn • NLTK • NLP
 
-### Backend and Databases
-
-* FastAPI
-* MySQL
-* MongoDB
-* Firebase Firestore
-
-### Machine Learning and AI
-
-* NumPy
-* Pandas
-* Scikit-learn
-* NLTK
-* Natural Language Processing (NLP)
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
+**Tools:** Git • GitHub • VS Code • Jupyter
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🗺️ MargDarshak
+Accessibility mapping platform built to help users discover and report accessible locations.
 
-A full-stack accessibility mapping platform designed to help users discover and report accessible locations.
+**React • Tailwind CSS • FastAPI • Firebase • TomTom Maps**
 
-**Tech:** React, Tailwind CSS, FastAPI, Firebase Firestore, TomTom Maps SDK
-
-### 🛡️ CrowdGuard
-
-An AI-powered, map-based community safety platform for real-time incident reporting and awareness.
-
-**Tech:** React, FastAPI, Firebase, AI/ML, Maps
+**React • FastAPI • Firebase • AI/ML**
 
 ### 🎯 Student Placement Prediction
+ML-based system for predicting student placement outcomes.
 
-A machine learning project that predicts student placement outcomes based on academic and lifestyle-related factors.
+**Python • Scikit-learn • Machine Learning**
 
-**Models:** Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN)
+### ✉️ AI Email Response Generator
+AI-powered application for generating professional email responses.
 
----
-
-## 🏆 Hackathon and Tech Fest Achievements
-
-* 🥇 **First Runner-Up** at **Katathon 0.5**, a **TomTom Hackathon**
-* 🏆 Received the **Best Solution Award** at the **Pandoora Hackathon** for an innovative technology-based solution
-* 🚀 Reached the **Second Round** of the **Cognizant Technoverse Hackathon**
-* 📜 Received a **Certificate of Participation** at a **Katalyst Tech Fest**
+**Python • Generative AI • NLP**
 
 ---
 
-## 🌱 Currently Learning
+## 🏆 Achievements
 
-* Data Structures and Algorithms
-* Machine Learning
-* Deep Learning
-* Retrieval-Augmented Generation (RAG) and Large Language Model (LLM) Applications
-* Full-Stack Development
+- First Runner-Up — Katathon 0.5
+- Best Solution Award — Pandoora Hackathon
+- Second Round — Cognizant Technoverse Hackathon
 
 ---
 
-## 🏆 Certifications and Programs
+## 🌱 Currently Exploring
 
-* Goldman Sachs Student Catalyst Program Certificate
-* Katalyst Tech Fest Certificate of Participation
-* AI for Developers — Udemy
-* Machine Learning for NLP
+Machine Learning • Deep Learning • RAG • LLMs • Full-Stack Development
 
 ---
 
-## 📌 What I'm Interested In
+## 🤝 Connect
 
-* Full-Stack Development
-* Machine Learning and AI
-* Data Science
-* Problem Solving
-* Hackathons and Technical Events
-* Building Real-World Applications
+[LinkedIn](YOUR_LINKEDIN_URL)
 
----
-
-## 🤝 Let's Connect
-
-I'm interested in learning, collaborating on projects, participating in hackathons and technical events, and connecting with other developers and technology enthusiasts.
-
-[LinkedIn](https://www.linkedin.com/in/komal-karle-5b33b02a3) 
-
----
-
-⭐ **Thanks for visiting my profile!**
-
+⭐ Thanks for visiting!
